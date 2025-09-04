@@ -25,5 +25,4 @@ Dynamic filtering: Drill down by department, role, and age.
 Factor analysis pages: Visual correlation of different attributes with attrition
 
 Preview
-![HR Dashboard][((https://github.com/chahat17khullar/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS.pdf))
-](https://github.com/chahat17khullar/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS.pdf)
+![HR Analytics Dashboard](DASHBOARD_SCREENSHOT.png)
