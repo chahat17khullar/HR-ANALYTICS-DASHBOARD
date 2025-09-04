@@ -1,8 +1,10 @@
 # HR-ANALYTICS-DASHBOARD
 Project Overview
+
 This project analyzes HR data to understand employee attrition and identify the key factors driving turnover. The dashboard provides actionable insights to improve retention, engagement, and workforce planning.
 
 Key Insights
+
 Employee attrition trends over time.
 Factors influencing attrition such as:
 Job role and department
@@ -23,4 +25,4 @@ Dynamic filtering: Drill down by department, role, and age.
 Factor analysis pages: Visual correlation of different attributes with attrition
 
 Preview
-![HR Dashboard](DASHBOARD_SCREENSHOT.png)
+![HR Dashboard]((https://github.com/chahat17khullar/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS.pdf))
