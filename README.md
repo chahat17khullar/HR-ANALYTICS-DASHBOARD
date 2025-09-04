@@ -24,5 +24,3 @@ Interactive visuals: Bar charts, Donut charts, KPIs, and slicers
 Dynamic filtering: Drill down by department, role, and age.
 Factor analysis pages: Visual correlation of different attributes with attrition
 
-Preview
-![HR Analytics Dashboard](DASHBOARD_SCREENSHOT.PNG)
